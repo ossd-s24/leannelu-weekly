@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Leanne Lu, and I'm a junior at NYU majoring in Computer Science and minoring in Game Design.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
