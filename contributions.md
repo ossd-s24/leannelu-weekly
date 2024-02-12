@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 11   | https://www.openstreetmap.org/changeset/147347587    | OpenStreetMap feature   |   Added/updated points in NYC and my hometown    |
 |     |     |     |      |
 |     |     |     |      |
