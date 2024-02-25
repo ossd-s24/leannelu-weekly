@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 11   | [OpenStreetMap changeset](https://www.openstreetmap.org/changeset/147347587) | OpenStreetMap feature |   Added/updated points in NYC and my hometown    |
-|     |     |     |      |
-|     |     |     |      |
+|  Feb 21   |   [Pull request](https://github.com/joannakl/ossd/pull/92)  |  Course website   |   Fixed broken image   |
+|  Feb 25   |  [Wikipedia revision diff](https://en.wikipedia.org/w/index.php?title=Ryan_Bergara&diff=prev&oldid=1210291799)   |  Wikipedia edit   |   Added internal link   |
