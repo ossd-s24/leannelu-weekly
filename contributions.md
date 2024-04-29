@@ -29,3 +29,5 @@ Replace the first row with your own contribution.
 | Apr 22 | [OpenStreetMap changeset](https://www.openstreetmap.org/changeset/150326783) | OpenStreetMap feature | Created/updated 10 points in NYC
 | Apr 22 | [Wikipedia Revison diff](https://en.wikipedia.org/w/index.php?title=List_of_Spy_%C3%97_Family_episodes&diff=prev&oldid=1220171570) | Wikipedia edit | Fixed error
 | Apr 28 | [Wikipedia Revision diff](https://en.wikipedia.org/w/index.php?title=List_of_open-source_films&diff=prev&oldid=1221307871) | Wikipedia edit | Added to list of open source films
+| Apr 29 | [Wikipedia Revision diff](https://en.wikipedia.org/w/index.php?title=Sam_Campbell_(comedian)&diff=prev&oldid=1221314143) | Wikipedia edit | Added fact to a personal life section with citation
+| Apr 29| [OpenStreetMap changeset](https://www.openstreetmap.org/changeset/150645162) | OpenStreetMap feature | Added 6 restaurants with details and removed a closed restaurant
